@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+h1 {color:blue; font-size:14px;}
+</style>
  <h1>Hola mundo</h1>
